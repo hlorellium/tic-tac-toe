@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firebasics-304ec": {
+      "hosting": {
+        "tic-tac-toe": [
+          "firebasics-304ec"
+        ]
+      }
+    }
+  }
+}
